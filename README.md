@@ -36,4 +36,4 @@ The 1st operation can be processed by 5 machines, the 2nd operation can be proce
 
 ## References
 
-[https://ieeexplore.ieee.org/document/10242078](https://ieeexplore.ieee.org/document/10242078)
+R. Li, W. Gong, L. Wang, C. Lu and C. Dong, "Co-Evolution With Deep Reinforcement Learning for Energy-Aware Distributed Heterogeneous Flexible Job Shop Scheduling," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2023.3305541.
