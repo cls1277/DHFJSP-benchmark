@@ -1,0 +1,149 @@
+[
+  {
+    "name": "100J4F",
+    "JOBS": 100,
+    "FACTORIES": 4,
+    "MACHINES": 5,
+    "path": "DQCE/100J4F.txt"
+  },
+  {
+    "name": "100J5F",
+    "JOBS": 100,
+    "FACTORIES": 5,
+    "MACHINES": 5,
+    "path": "DQCE/100J5F.txt"
+  },
+  {
+    "name": "100J6F",
+    "JOBS": 100,
+    "FACTORIES": 6,
+    "MACHINES": 5,
+    "path": "DQCE/100J6F.txt"
+  },
+  {
+    "name": "100J7F",
+    "JOBS": 100,
+    "FACTORIES": 7,
+    "MACHINES": 5,
+    "path": "DQCE/100J7F.txt"
+  },
+  {
+    "name": "10J2F",
+    "JOBS": 10,
+    "FACTORIES": 2,
+    "MACHINES": 5,
+    "path": "DQCE/10J2F.txt"
+  },
+  {
+    "name": "150J5F",
+    "JOBS": 150,
+    "FACTORIES": 5,
+    "MACHINES": 5,
+    "path": "DQCE/150J5F.txt"
+  },
+  {
+    "name": "150J6F",
+    "JOBS": 150,
+    "FACTORIES": 6,
+    "MACHINES": 5,
+    "path": "DQCE/150J6F.txt"
+  },
+  {
+    "name": "150J7F",
+    "JOBS": 150,
+    "FACTORIES": 7,
+    "MACHINES": 5,
+    "path": "DQCE/150J7F.txt"
+  },
+  {
+    "name": "200J6F",
+    "JOBS": 200,
+    "FACTORIES": 6,
+    "MACHINES": 5,
+    "path": "DQCE/200J6F.txt"
+  },
+  {
+    "name": "200J7F",
+    "JOBS": 200,
+    "FACTORIES": 7,
+    "MACHINES": 5,
+    "path": "DQCE/200J7F.txt"
+  },
+  {
+    "name": "20J2F",
+    "JOBS": 20,
+    "FACTORIES": 2,
+    "MACHINES": 5,
+    "path": "DQCE/20J2F.txt"
+  },
+  {
+    "name": "20J3F",
+    "JOBS": 20,
+    "FACTORIES": 3,
+    "MACHINES": 5,
+    "path": "DQCE/20J3F.txt"
+  },
+  {
+    "name": "30J2F",
+    "JOBS": 30,
+    "FACTORIES": 2,
+    "MACHINES": 5,
+    "path": "DQCE/30J2F.txt"
+  },
+  {
+    "name": "30J3F",
+    "JOBS": 30,
+    "FACTORIES": 3,
+    "MACHINES": 5,
+    "path": "DQCE/30J3F.txt"
+  },
+  {
+    "name": "40J2F",
+    "JOBS": 40,
+    "FACTORIES": 2,
+    "MACHINES": 5,
+    "path": "DQCE/40J2F.txt"
+  },
+  {
+    "name": "40J3F",
+    "JOBS": 40,
+    "FACTORIES": 3,
+    "MACHINES": 5,
+    "path": "DQCE/40J3F.txt"
+  },
+  {
+    "name": "40J4F",
+    "JOBS": 40,
+    "FACTORIES": 4,
+    "MACHINES": 5,
+    "path": "DQCE/40J4F.txt"
+  },
+  {
+    "name": "50J3F",
+    "JOBS": 50,
+    "FACTORIES": 3,
+    "MACHINES": 5,
+    "path": "DQCE/50J3F.txt"
+  },
+  {
+    "name": "50J4F",
+    "JOBS": 50,
+    "FACTORIES": 4,
+    "MACHINES": 5,
+    "path": "DQCE/50J4F.txt"
+  },
+  {
+    "name": "50J5F",
+    "JOBS": 50,
+    "FACTORIES": 5,
+    "MACHINES": 5,
+    "path": "DQCE/50J5F.txt"
+  },
+  {
+    "name": "realworld",
+    "JOBS": 55,
+    "FACTORIES": 2,
+    "MACHINES": 4,
+    "path": "DQCE/realworld.txt"
+  }
+]
