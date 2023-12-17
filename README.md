@@ -6,7 +6,7 @@ In the first line there are 3 numbers: the first $N$ is the number of jobs, the 
 
 After that, there are $F\times N$ sets of data.
 
-The first line of each set of data has three numbers: the first $l$ is the factory index, the second $i$ is of job operations that can be processed. the job index, and the third $J$ is the number
+The first row of each set of data has three numbers: the first $l$ is the factory index, the second $i$ is the job index, and the third $J$ is the total number of operations.
 
 There are a total of $J$ lines next, and the first number $j$ in each line is the $j$-th operation of the job $i$. The second number $m$ is the number of candidate machines for this operation. The following $m\times 2$ numbers are the candidate machine index and the corresponding processing time respectively, in pairs of two, a total of $m$ groups.
 
